@@ -1,0 +1,17 @@
+{
+    "name": "Rapid TagsComma Separator",
+    "version": "1.0.0",
+    "description": "latest covid data of UK",
+    "manifest_version": 3,
+    "author": "Malik Elate",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Rapid TagsComma Separator"
+    }, 
+    "content_scripts": [
+        {
+          "js": ["rapidtags.js"],
+          "matches": ["https://rapidtags.io/*"]
+        }
+    ]
+}
