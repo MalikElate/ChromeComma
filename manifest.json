@@ -1,9 +1,16 @@
 {
-    "name": "Rapid TagsComma Separator",
-    "version": "1.0.0",
-    "description": "latest covid data of UK",
+    "name": "Rapid Tags Comma Separator",
+    "version": "1.0.2",
+    "description": "Copy tags from rapidtags.io and paste them with spaces after commas automatically. Save time and hassle with our extension. Try it now!",
+    "short_name": "ChromeComma", 
     "manifest_version": 3,
     "author": "Malik Elate",
+    "icons": {
+        "16": "icon16.png",
+        "32": "icon32.png",
+        "48": "icon48.png",
+        "128": "icon128.png"
+      },
     "action":{
         "default_popup": "index.html",
         "default_title": "Rapid TagsComma Separator"
