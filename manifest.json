@@ -1,7 +1,7 @@
 {
     "name": "Rapid Tags Comma Separator",
     "version": "0.0.2",
-    "description": "Copy tags from rapidtags.io and paste them with spaces after commas automatically. Save time and hassle with our extension. Try it now!",
+    "description": "Copy tags from rapidtags.io and paste them but with spaces after commas. Save time and hassle with our extension. Try it now!",
     "short_name": "ChromeComma", 
     "manifest_version": 3,
     "author": "Malik Elate",
