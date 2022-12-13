@@ -15,7 +15,6 @@
         "default_popup": "index.html",
         "default_title": "Rapid TagsComma Separator"
     }, 
-    "permissions": ["activeTab"],
     "host_permissions": [
       "https://rapidtags.io/"
     ],
